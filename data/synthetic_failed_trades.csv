@@ -1,0 +1,221 @@
+Trade_ID,Trade_Date,Instrument_Type,Trade_Value_GBP,Expected_Settlement_Date,Failure_Reason,Assigned_Analyst,Status,Days_Outstanding,Resolution_Date
+TRD10001,2026-08-06,Bond,684641.38,2026-08-09,SSI Mismatch,Analyst E,In Investigation,4,
+TRD10002,2026-09-17,Equity,36680.56,2026-09-18,Insufficient Securities,Analyst E,Open,10,
+TRD10003,2026-09-09,Equity,517562.25,2026-09-11,Cash Shortfall,Analyst B,Resolved,0,2026-09-13
+TRD10004,2026-08-27,Bond,139153.54,2026-08-30,Trade Data Mismatch,Analyst B,Open,5,
+TRD10005,2026-08-27,Equity,874926.98,2026-08-28,Counterparty Delay,Analyst B,Resolved,0,2026-08-28
+TRD10006,2026-09-22,Derivative,496026.81,2026-09-24,Counterparty Delay,Analyst E,Pending Counterparty,15,
+TRD10007,2026-08-06,FX,2102388.09,2026-08-07,Counterparty Delay,Analyst C,In Investigation,11,
+TRD10008,2026-09-12,FX,482751.82,2026-09-14,Trade Data Mismatch,Analyst C,Resolved,3,2026-09-21
+TRD10009,2026-08-13,Bond,21557.04,2026-08-14,Insufficient Securities,Analyst E,In Investigation,3,
+TRD10010,2026-08-06,FX,164444.0,2026-08-09,SSI Mismatch,Analyst D,Pending Counterparty,1,
+TRD10011,2026-09-02,Bond,36993.68,2026-09-03,SSI Mismatch,Analyst E,In Investigation,7,
+TRD10012,2026-09-29,FX,89414.16,2026-10-02,Cash Shortfall,Analyst E,Pending Counterparty,12,
+TRD10013,2026-09-14,Equity,1384528.93,2026-09-17,Trade Data Mismatch,Analyst A,In Investigation,9,
+TRD10014,2026-09-16,Bond,425654.29,2026-09-19,SSI Mismatch,Analyst B,In Investigation,14,
+TRD10015,2026-09-13,Equity,70063.42,2026-09-16,Trade Data Mismatch,Analyst D,Resolved,5,2026-09-14
+TRD10016,2026-09-17,Bond,45807.07,2026-09-18,Trade Data Mismatch,Analyst E,In Investigation,4,
+TRD10017,2026-09-01,Equity,188144.95,2026-09-04,SSI Mismatch,Analyst A,Open,7,
+TRD10018,2026-08-08,Equity,34834.23,2026-08-10,System/Processing Issue,Analyst B,Pending Counterparty,3,
+TRD10019,2026-09-21,Equity,72741.89,2026-09-24,Counterparty Delay,Analyst C,Resolved,15,2026-09-29
+TRD10020,2026-08-28,Bond,274285.53,2026-08-31,Trade Data Mismatch,Analyst D,Open,2,
+TRD10021,2026-08-31,Equity,856306.27,2026-09-02,SSI Mismatch,Analyst A,In Investigation,7,
+TRD10022,2026-08-23,Derivative,409437.73,2026-08-25,SSI Mismatch,Analyst D,Resolved,8,2026-08-24
+TRD10023,2026-08-12,Bond,8163.85,2026-08-13,SSI Mismatch,Analyst B,Resolved,0,2026-08-16
+TRD10024,2026-09-26,Equity,271470.08,2026-09-27,Insufficient Securities,Analyst B,Resolved,7,2026-09-28
+TRD10025,2026-09-17,Bond,198383.53,2026-09-19,SSI Mismatch,Analyst C,In Investigation,7,
+TRD10026,2026-09-09,Equity,314727.99,2026-09-12,System/Processing Issue,Analyst C,Pending Counterparty,4,
+TRD10027,2026-08-25,Derivative,1595336.43,2026-08-27,Counterparty Delay,Analyst D,In Investigation,2,
+TRD10028,2026-09-20,Bond,11107.11,2026-09-22,Insufficient Securities,Analyst B,Resolved,0,2026-09-22
+TRD10029,2026-09-03,FX,81041.97,2026-09-04,Cash Shortfall,Analyst E,Resolved,0,2026-09-06
+TRD10030,2026-08-28,Equity,399686.46,2026-08-30,Cash Shortfall,Analyst A,Pending Counterparty,7,
+TRD10031,2026-08-28,Bond,21280.78,2026-08-30,Insufficient Securities,Analyst E,In Investigation,1,
+TRD10032,2026-08-14,Bond,1320133.39,2026-08-17,System/Processing Issue,Analyst A,In Investigation,15,
+TRD10033,2026-08-06,Derivative,295964.13,2026-08-09,SSI Mismatch,Analyst D,Pending Counterparty,3,
+TRD10034,2026-09-03,Bond,564446.29,2026-09-05,Cash Shortfall,Analyst B,In Investigation,10,
+TRD10035,2026-09-24,Bond,83277.88,2026-09-27,Counterparty Delay,Analyst B,Resolved,10,2026-09-28
+TRD10036,2026-08-04,Equity,539983.09,2026-08-06,Insufficient Securities,Analyst A,In Investigation,7,
+TRD10037,2026-09-22,Equity,761578.65,2026-09-25,Cash Shortfall,Analyst D,Pending Counterparty,14,
+TRD10038,2026-09-20,Bond,246495.12,2026-09-22,Counterparty Delay,Analyst A,In Investigation,1,
+TRD10039,2026-08-17,Bond,247002.4,2026-08-18,Counterparty Delay,Analyst D,In Investigation,3,
+TRD10040,2026-09-08,Equity,259283.02,2026-09-10,System/Processing Issue,Analyst D,In Investigation,4,
+TRD10041,2026-08-11,FX,56117.11,2026-08-12,Counterparty Delay,Analyst E,Open,2,
+TRD10042,2026-09-16,Derivative,147494.83,2026-09-17,SSI Mismatch,Analyst D,Open,4,
+TRD10043,2026-09-12,Equity,146503.81,2026-09-15,Trade Data Mismatch,Analyst B,Pending Counterparty,5,
+TRD10044,2026-08-22,Bond,302033.69,2026-08-25,System/Processing Issue,Analyst D,Pending Counterparty,12,
+TRD10045,2026-08-05,Equity,694171.87,2026-08-06,Counterparty Delay,Analyst E,Pending Counterparty,4,
+TRD10046,2026-09-29,FX,43117.68,2026-10-02,System/Processing Issue,Analyst B,Open,14,
+TRD10047,2026-08-28,Equity,152047.76,2026-08-29,Trade Data Mismatch,Analyst A,In Investigation,12,
+TRD10048,2026-09-24,FX,1329983.53,2026-09-25,Trade Data Mismatch,Analyst E,Open,14,
+TRD10049,2026-09-11,FX,65964.24,2026-09-14,Insufficient Securities,Analyst A,Pending Counterparty,1,
+TRD10050,2026-09-17,FX,59318.39,2026-09-18,Trade Data Mismatch,Analyst C,Resolved,15,2026-09-18
+TRD10051,2026-09-16,Equity,236528.86,2026-09-19,SSI Mismatch,Analyst B,Open,9,
+TRD10052,2026-08-12,Derivative,562773.29,2026-08-15,SSI Mismatch,Analyst A,Pending Counterparty,15,
+TRD10053,2026-08-23,Equity,182798.06,2026-08-24,Counterparty Delay,Analyst D,Open,5,
+TRD10054,2026-08-29,Equity,1082527.27,2026-08-30,System/Processing Issue,Analyst A,In Investigation,15,
+TRD10055,2026-08-31,Bond,572280.2,2026-09-03,System/Processing Issue,Analyst D,Open,9,
+TRD10056,2026-08-03,Bond,560827.82,2026-08-05,Cash Shortfall,Analyst D,In Investigation,1,
+TRD10057,2026-09-03,FX,380320.43,2026-09-05,Trade Data Mismatch,Analyst A,Pending Counterparty,6,
+TRD10058,2026-08-10,FX,4168404.12,2026-08-12,Trade Data Mismatch,Analyst A,Resolved,2,2026-08-12
+TRD10059,2026-09-15,Equity,136454.14,2026-09-17,SSI Mismatch,Analyst D,Open,15,
+TRD10060,2026-09-11,Derivative,12039.61,2026-09-14,Insufficient Securities,Analyst C,In Investigation,4,
+TRD10061,2026-09-26,Equity,1569794.88,2026-09-28,Insufficient Securities,Analyst A,Pending Counterparty,3,
+TRD10062,2026-09-15,Bond,97034.12,2026-09-16,Trade Data Mismatch,Analyst E,Resolved,8,2026-09-24
+TRD10063,2026-08-23,Equity,208220.05,2026-08-25,SSI Mismatch,Analyst B,Pending Counterparty,6,
+TRD10064,2026-09-29,Derivative,1054529.82,2026-10-02,System/Processing Issue,Analyst A,In Investigation,1,
+TRD10065,2026-08-26,Equity,20695.3,2026-08-27,SSI Mismatch,Analyst E,Pending Counterparty,13,
+TRD10066,2026-08-20,Equity,33222.69,2026-08-22,System/Processing Issue,Analyst A,In Investigation,13,
+TRD10067,2026-09-25,Bond,20722.74,2026-09-28,SSI Mismatch,Analyst C,Resolved,11,2026-09-26
+TRD10068,2026-08-23,Derivative,61613.0,2026-08-25,Trade Data Mismatch,Analyst E,In Investigation,9,
+TRD10069,2026-08-05,Derivative,325859.49,2026-08-06,Insufficient Securities,Analyst C,Pending Counterparty,6,
+TRD10070,2026-08-29,FX,365260.37,2026-08-30,SSI Mismatch,Analyst C,Open,8,
+TRD10071,2026-09-18,Derivative,261367.38,2026-09-20,Trade Data Mismatch,Analyst B,In Investigation,8,
+TRD10072,2026-08-12,Derivative,26728.3,2026-08-14,System/Processing Issue,Analyst A,Resolved,2,2026-08-14
+TRD10073,2026-08-29,Bond,7959.11,2026-09-01,Trade Data Mismatch,Analyst C,Pending Counterparty,1,
+TRD10074,2026-08-08,Equity,193704.58,2026-08-10,Insufficient Securities,Analyst E,In Investigation,4,
+TRD10075,2026-09-11,FX,95207.55,2026-09-14,SSI Mismatch,Analyst A,Resolved,7,2026-09-20
+TRD10076,2026-08-30,FX,334664.2,2026-08-31,Insufficient Securities,Analyst E,Resolved,2,2026-09-06
+TRD10077,2026-08-21,Bond,464329.41,2026-08-23,Insufficient Securities,Analyst C,In Investigation,1,
+TRD10078,2026-08-14,Equity,216931.75,2026-08-15,Counterparty Delay,Analyst C,In Investigation,13,
+TRD10079,2026-09-04,FX,502269.34,2026-09-06,Counterparty Delay,Analyst A,In Investigation,5,
+TRD10080,2026-09-10,Equity,245277.99,2026-09-11,Trade Data Mismatch,Analyst D,Pending Counterparty,9,
+TRD10081,2026-09-27,Derivative,368169.78,2026-09-29,Trade Data Mismatch,Analyst A,In Investigation,8,
+TRD10082,2026-08-27,Equity,69522.33,2026-08-29,Trade Data Mismatch,Analyst B,Open,11,
+TRD10083,2026-08-10,Equity,141242.95,2026-08-11,Trade Data Mismatch,Analyst D,Resolved,11,2026-08-14
+TRD10084,2026-09-20,FX,234769.59,2026-09-21,Insufficient Securities,Analyst A,Resolved,4,2026-09-21
+TRD10085,2026-09-08,Equity,544937.06,2026-09-10,Cash Shortfall,Analyst C,Resolved,13,2026-09-10
+TRD10086,2026-09-12,Equity,105784.74,2026-09-15,Counterparty Delay,Analyst C,Resolved,5,2026-09-16
+TRD10087,2026-08-06,Bond,363773.95,2026-08-07,Trade Data Mismatch,Analyst A,Pending Counterparty,13,
+TRD10088,2026-08-20,Derivative,125722.17,2026-08-22,Insufficient Securities,Analyst B,Pending Counterparty,6,
+TRD10089,2026-09-16,Equity,153588.19,2026-09-17,SSI Mismatch,Analyst B,Pending Counterparty,1,
+TRD10090,2026-09-20,Equity,551591.4,2026-09-23,Counterparty Delay,Analyst D,In Investigation,12,
+TRD10091,2026-08-27,FX,12210.86,2026-08-29,Insufficient Securities,Analyst E,Resolved,0,2026-08-28
+TRD10092,2026-09-19,Derivative,31271.88,2026-09-22,SSI Mismatch,Analyst E,Open,12,
+TRD10093,2026-09-21,Bond,24337.21,2026-09-22,Trade Data Mismatch,Analyst A,Resolved,0,2026-09-30
+TRD10094,2026-08-24,Equity,7710.44,2026-08-25,Counterparty Delay,Analyst A,In Investigation,3,
+TRD10095,2026-09-24,Equity,72045.64,2026-09-26,Cash Shortfall,Analyst A,In Investigation,9,
+TRD10096,2026-08-18,Equity,495066.76,2026-08-20,Trade Data Mismatch,Analyst C,In Investigation,15,
+TRD10097,2026-08-15,Equity,122530.91,2026-08-18,SSI Mismatch,Analyst A,In Investigation,6,
+TRD10098,2026-09-11,FX,235091.19,2026-09-14,Trade Data Mismatch,Analyst B,Open,1,
+TRD10099,2026-09-08,Equity,783209.7,2026-09-11,Cash Shortfall,Analyst E,Resolved,3,2026-09-11
+TRD10100,2026-08-09,Bond,1080666.36,2026-08-11,Counterparty Delay,Analyst E,Resolved,14,2026-08-14
+TRD10101,2026-09-20,FX,163959.7,2026-09-22,SSI Mismatch,Analyst E,Open,11,
+TRD10102,2026-08-13,Bond,1119119.84,2026-08-15,Cash Shortfall,Analyst B,Open,1,
+TRD10103,2026-09-19,Equity,203838.46,2026-09-20,Trade Data Mismatch,Analyst D,In Investigation,6,
+TRD10104,2026-08-01,FX,58117.64,2026-08-03,Cash Shortfall,Analyst D,Resolved,4,2026-08-10
+TRD10105,2026-09-18,FX,80682.07,2026-09-20,Insufficient Securities,Analyst A,Resolved,2,2026-09-27
+TRD10106,2026-09-18,FX,24391.45,2026-09-19,SSI Mismatch,Analyst C,Open,13,
+TRD10107,2026-09-17,Equity,54270.25,2026-09-18,Counterparty Delay,Analyst C,Pending Counterparty,9,
+TRD10108,2026-09-10,Equity,111011.56,2026-09-12,Trade Data Mismatch,Analyst B,Open,2,
+TRD10109,2026-08-29,Derivative,532613.82,2026-08-31,System/Processing Issue,Analyst D,In Investigation,10,
+TRD10110,2026-09-13,Bond,1837196.64,2026-09-16,Cash Shortfall,Analyst D,Resolved,6,2026-09-19
+TRD10111,2026-08-17,Equity,27854.98,2026-08-19,SSI Mismatch,Analyst C,Resolved,0,2026-08-22
+TRD10112,2026-09-17,Bond,305904.8,2026-09-20,Insufficient Securities,Analyst D,Open,7,
+TRD10113,2026-09-03,FX,44177.81,2026-09-05,Counterparty Delay,Analyst D,In Investigation,2,
+TRD10114,2026-08-28,Derivative,341653.79,2026-08-29,System/Processing Issue,Analyst C,Pending Counterparty,3,
+TRD10115,2026-08-31,Equity,150805.34,2026-09-01,Counterparty Delay,Analyst B,Resolved,14,2026-09-02
+TRD10116,2026-09-04,Derivative,15199.07,2026-09-07,Counterparty Delay,Analyst D,Resolved,11,2026-09-06
+TRD10117,2026-08-03,Equity,630275.98,2026-08-05,SSI Mismatch,Analyst D,Open,2,
+TRD10118,2026-08-09,Bond,79535.69,2026-08-10,System/Processing Issue,Analyst E,Open,13,
+TRD10119,2026-08-15,FX,87548.38,2026-08-17,SSI Mismatch,Analyst A,Resolved,9,2026-08-23
+TRD10120,2026-08-07,Equity,42469.71,2026-08-10,Insufficient Securities,Analyst C,In Investigation,13,
+TRD10121,2026-08-27,Equity,74416.26,2026-08-29,SSI Mismatch,Analyst E,Resolved,11,2026-08-28
+TRD10122,2026-09-10,Bond,320732.98,2026-09-11,Insufficient Securities,Analyst C,Pending Counterparty,5,
+TRD10123,2026-09-09,Derivative,139418.05,2026-09-10,Cash Shortfall,Analyst E,Open,8,
+TRD10124,2026-08-29,Bond,280521.55,2026-09-01,Insufficient Securities,Analyst A,Resolved,8,2026-09-02
+TRD10125,2026-09-22,Derivative,293404.25,2026-09-25,SSI Mismatch,Analyst A,Open,11,
+TRD10126,2026-09-04,FX,1070466.79,2026-09-07,Counterparty Delay,Analyst D,In Investigation,3,
+TRD10127,2026-08-05,Bond,113317.72,2026-08-08,SSI Mismatch,Analyst B,In Investigation,5,
+TRD10128,2026-09-16,FX,24512.88,2026-09-17,SSI Mismatch,Analyst C,In Investigation,3,
+TRD10129,2026-09-05,Equity,760295.45,2026-09-06,System/Processing Issue,Analyst C,Pending Counterparty,4,
+TRD10130,2026-09-08,Equity,115059.32,2026-09-09,Trade Data Mismatch,Analyst C,Pending Counterparty,2,
+TRD10131,2026-09-04,FX,810504.3,2026-09-05,SSI Mismatch,Analyst E,Resolved,0,2026-09-08
+TRD10132,2026-09-03,FX,302026.86,2026-09-06,Cash Shortfall,Analyst A,Resolved,15,2026-09-12
+TRD10133,2026-08-06,Equity,150794.98,2026-08-09,Trade Data Mismatch,Analyst D,In Investigation,1,
+TRD10134,2026-09-04,Bond,288243.12,2026-09-05,Cash Shortfall,Analyst E,Open,14,
+TRD10135,2026-09-18,FX,2506954.14,2026-09-21,Cash Shortfall,Analyst D,Resolved,0,2026-09-25
+TRD10136,2026-08-19,Derivative,2971673.57,2026-08-21,System/Processing Issue,Analyst B,Resolved,12,2026-08-23
+TRD10137,2026-09-06,FX,197674.43,2026-09-07,SSI Mismatch,Analyst A,In Investigation,5,
+TRD10138,2026-08-02,Bond,223455.92,2026-08-05,Trade Data Mismatch,Analyst D,In Investigation,8,
+TRD10139,2026-08-22,Bond,769607.82,2026-08-25,Counterparty Delay,Analyst C,In Investigation,4,
+TRD10140,2026-08-27,Bond,57472.95,2026-08-29,Counterparty Delay,Analyst A,Open,7,
+TRD10141,2026-09-29,FX,282196.0,2026-10-02,Cash Shortfall,Analyst B,Pending Counterparty,7,
+TRD10142,2026-08-14,Derivative,173823.78,2026-08-16,Cash Shortfall,Analyst E,In Investigation,8,
+TRD10143,2026-08-17,Bond,274989.51,2026-08-20,Cash Shortfall,Analyst B,Resolved,6,2026-08-21
+TRD10144,2026-08-25,Equity,58434.65,2026-08-27,Insufficient Securities,Analyst A,Resolved,8,2026-08-30
+TRD10145,2026-09-30,Equity,21052.95,2026-10-03,Trade Data Mismatch,Analyst D,Resolved,13,2026-10-03
+TRD10146,2026-09-22,FX,10961.94,2026-09-23,Cash Shortfall,Analyst A,In Investigation,6,
+TRD10147,2026-08-03,FX,39824.74,2026-08-04,Counterparty Delay,Analyst E,In Investigation,5,
+TRD10148,2026-08-15,Equity,96906.37,2026-08-18,Trade Data Mismatch,Analyst E,Pending Counterparty,2,
+TRD10149,2026-09-20,Equity,121164.39,2026-09-21,Trade Data Mismatch,Analyst E,Resolved,5,2026-09-24
+TRD10150,2026-08-04,Bond,2460743.75,2026-08-05,SSI Mismatch,Analyst E,In Investigation,2,
+TRD10151,2026-09-22,Equity,801149.76,2026-09-25,SSI Mismatch,Analyst B,Resolved,2,2026-10-01
+TRD10152,2026-08-18,FX,49113.49,2026-08-19,System/Processing Issue,Analyst B,Open,15,
+TRD10153,2026-09-25,Equity,287828.05,2026-09-27,Counterparty Delay,Analyst B,Resolved,1,2026-09-26
+TRD10154,2026-08-18,Equity,103897.13,2026-08-19,Trade Data Mismatch,Analyst C,Open,7,
+TRD10155,2026-08-27,Derivative,122617.0,2026-08-28,System/Processing Issue,Analyst E,Open,13,
+TRD10156,2026-09-10,Equity,231168.41,2026-09-13,Trade Data Mismatch,Analyst D,In Investigation,15,
+TRD10157,2026-08-08,Equity,415232.19,2026-08-09,Cash Shortfall,Analyst D,Open,2,
+TRD10158,2026-09-03,Equity,113858.66,2026-09-04,Counterparty Delay,Analyst E,Open,2,
+TRD10159,2026-08-31,Equity,756843.44,2026-09-03,Insufficient Securities,Analyst D,Open,5,
+TRD10160,2026-09-17,Equity,38526.27,2026-09-20,Counterparty Delay,Analyst B,In Investigation,8,
+TRD10161,2026-09-30,Equity,181547.0,2026-10-01,System/Processing Issue,Analyst C,Pending Counterparty,15,
+TRD10162,2026-09-10,Equity,6001810.07,2026-09-13,SSI Mismatch,Analyst C,Open,3,
+TRD10163,2026-08-25,Equity,243256.03,2026-08-27,SSI Mismatch,Analyst A,Pending Counterparty,2,
+TRD10164,2026-08-25,Bond,1246128.01,2026-08-28,Insufficient Securities,Analyst D,Resolved,4,2026-08-27
+TRD10165,2026-08-26,FX,203671.64,2026-08-27,System/Processing Issue,Analyst D,Open,13,
+TRD10166,2026-09-19,Bond,394258.16,2026-09-22,Insufficient Securities,Analyst D,Resolved,0,2026-09-25
+TRD10167,2026-08-20,Equity,166717.3,2026-08-22,Insufficient Securities,Analyst C,Resolved,6,2026-08-27
+TRD10168,2026-08-11,Bond,143008.86,2026-08-14,Cash Shortfall,Analyst D,Resolved,1,2026-08-18
+TRD10169,2026-08-21,Derivative,62844.01,2026-08-23,Insufficient Securities,Analyst E,In Investigation,2,
+TRD10170,2026-08-02,Derivative,321778.59,2026-08-05,SSI Mismatch,Analyst C,Resolved,14,2026-08-05
+TRD10171,2026-08-07,Equity,57018.83,2026-08-09,SSI Mismatch,Analyst C,Resolved,0,2026-08-12
+TRD10172,2026-08-06,Equity,442082.68,2026-08-07,Cash Shortfall,Analyst A,In Investigation,5,
+TRD10173,2026-09-17,Equity,779064.86,2026-09-20,Insufficient Securities,Analyst D,Pending Counterparty,14,
+TRD10174,2026-09-14,Equity,295235.77,2026-09-17,Insufficient Securities,Analyst E,In Investigation,9,
+TRD10175,2026-09-12,Bond,122305.38,2026-09-13,SSI Mismatch,Analyst D,Pending Counterparty,1,
+TRD10176,2026-08-29,Bond,332224.31,2026-08-31,Insufficient Securities,Analyst E,In Investigation,7,
+TRD10177,2026-09-13,Equity,118658.33,2026-09-15,Counterparty Delay,Analyst E,Pending Counterparty,15,
+TRD10178,2026-08-10,Bond,636475.21,2026-08-12,Cash Shortfall,Analyst D,In Investigation,6,
+TRD10179,2026-09-24,Bond,15188.8,2026-09-27,Cash Shortfall,Analyst C,In Investigation,8,
+TRD10180,2026-08-31,Equity,114421.26,2026-09-03,SSI Mismatch,Analyst A,Open,8,
+TRD10181,2026-09-27,FX,12247.98,2026-09-28,SSI Mismatch,Analyst A,Open,10,
+TRD10182,2026-08-10,Equity,23917.84,2026-08-13,Insufficient Securities,Analyst B,Pending Counterparty,2,
+TRD10183,2026-08-31,Derivative,1134753.65,2026-09-02,Insufficient Securities,Analyst C,Open,13,
+TRD10184,2026-09-12,Equity,602722.31,2026-09-15,Trade Data Mismatch,Analyst D,Open,15,
+TRD10185,2026-08-31,FX,68146.41,2026-09-03,Insufficient Securities,Analyst C,Open,2,
+TRD10186,2026-08-28,Derivative,23678.73,2026-08-30,SSI Mismatch,Analyst A,Open,13,
+TRD10187,2026-08-11,Derivative,5000.0,2026-08-13,SSI Mismatch,Analyst B,Resolved,13,2026-08-20
+TRD10188,2026-08-24,FX,86421.62,2026-08-26,Cash Shortfall,Analyst E,In Investigation,11,
+TRD10189,2026-08-15,FX,4724500.49,2026-08-18,SSI Mismatch,Analyst E,Resolved,5,2026-08-24
+TRD10190,2026-08-19,FX,323775.58,2026-08-21,Trade Data Mismatch,Analyst B,Open,7,
+TRD10191,2026-09-11,FX,84566.17,2026-09-12,Trade Data Mismatch,Analyst E,Pending Counterparty,13,
+TRD10192,2026-09-08,Equity,337246.84,2026-09-10,Cash Shortfall,Analyst D,In Investigation,2,
+TRD10193,2026-09-07,Bond,21881.97,2026-09-08,Cash Shortfall,Analyst E,In Investigation,13,
+TRD10194,2026-08-23,Bond,120490.43,2026-08-25,Cash Shortfall,Analyst E,Resolved,14,2026-08-30
+TRD10195,2026-09-28,Derivative,205871.35,2026-09-29,SSI Mismatch,Analyst D,Resolved,10,2026-10-07
+TRD10196,2026-08-06,Bond,160247.74,2026-08-07,Counterparty Delay,Analyst B,Resolved,5,2026-08-12
+TRD10197,2026-08-21,Bond,523504.23,2026-08-24,Cash Shortfall,Analyst D,Open,8,
+TRD10198,2026-08-08,FX,286640.24,2026-08-09,Cash Shortfall,Analyst B,Resolved,0,2026-08-09
+TRD10199,2026-08-21,Equity,443721.44,2026-08-23,System/Processing Issue,Analyst B,Pending Counterparty,14,
+TRD10200,2026-09-28,Equity,71069.22,2026-10-01,Insufficient Securities,Analyst D,In Investigation,5,
+TRD10201,2026-08-23,Bond,604866.43,2026-08-26,SSI Mismatch,Analyst C,Resolved,0,2026-08-25
+TRD10202,2026-09-25,Bond,1622984.03,2026-09-27,Counterparty Delay,Analyst C,In Investigation,12,
+TRD10203,2026-08-31,Equity,48582.09,2026-09-01,Insufficient Securities,Analyst B,In Investigation,10,
+TRD10204,2026-09-12,Bond,54302.36,2026-09-15,Insufficient Securities,Analyst C,Resolved,9,2026-09-17
+TRD10205,2026-08-28,Bond,1092545.64,2026-08-31,Insufficient Securities,Analyst A,Resolved,0,2026-08-30
+TRD10206,2026-08-17,Equity,139023.43,2026-08-19,System/Processing Issue,Analyst D,Open,12,
+TRD10207,2026-09-16,Bond,1197648.98,2026-09-17,Insufficient Securities,Analyst C,Open,10,
+TRD10208,2026-09-29,FX,99040.97,2026-09-30,Cash Shortfall,Analyst E,Pending Counterparty,12,
+TRD10209,2026-08-17,Equity,1283400.38,2026-08-18,Insufficient Securities,Analyst C,In Investigation,13,
+TRD10210,2026-09-17,Derivative,214962.31,2026-09-18,Insufficient Securities,Analyst C,In Investigation,3,
+TRD10211,2026-08-16,Derivative,255077.08,2026-08-19,Counterparty Delay,Analyst A,In Investigation,3,
+TRD10212,2026-09-13,Bond,1488205.31,2026-09-14,Cash Shortfall,Analyst A,Pending Counterparty,14,
+TRD10213,2026-09-18,Equity,110450.42,2026-09-19,Counterparty Delay,Analyst B,Resolved,8,2026-09-26
+TRD10214,2026-08-28,Bond,50523.67,2026-08-31,Counterparty Delay,Analyst B,In Investigation,7,
+TRD10215,2026-09-14,FX,98238.2,2026-09-17,Trade Data Mismatch,Analyst B,In Investigation,4,
+TRD10216,2026-08-17,FX,331493.33,2026-08-18,Insufficient Securities,Analyst B,In Investigation,10,
+TRD10217,2026-08-05,FX,21740.61,2026-08-07,Trade Data Mismatch,Analyst D,In Investigation,12,
+TRD10218,2026-08-06,Bond,425618.14,2026-08-08,Counterparty Delay,Analyst A,Resolved,0,2026-08-12
+TRD10219,2026-08-28,FX,86974.55,2026-08-30,Insufficient Securities,Analyst B,In Investigation,8,
+TRD10220,2026-09-25,Equity,847680.62,2026-09-28,Trade Data Mismatch,Analyst A,Pending Counterparty,15,
